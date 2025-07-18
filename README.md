@@ -56,6 +56,8 @@ This project aims to identify and analyze the reasons behind declining sales per
 * Interactive Dashboard Creation
 * Data Storytelling
 
+![Dashboard 1](Dashboard.png)
+![Dashboard 2](Dashboard1.png)
 ---
 
 ### 📬 Connect with Me
