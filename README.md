@@ -1,32 +1,69 @@
-# 🏥 Descriptive Analysis of Patient Health Data
+## 📉 Diagnostic Analysis of Sales Decline using Tableau
 
-## 📊 Project Overview
-This project contains two Tableau dashboards that present descriptive analytics on patient health data. The aim is to identify key trends in patient demographics, treatment outcomes, and visit patterns.
+### 🔍 Overview
 
-## 🔍 Key Visualizations
-- Patient demographics by age and gender
-- Frequency of diagnoses and treatments
-- Visit trends by month and outcome category
-- Overall distribution of patient health indicators
-
-## 📁 Files Included
-- `final question 1.twbx` – First dashboard workbook
-- `final question 2.twbx` – Second dashboard workbook
-- `/screenshots/` – (Optional) Dashboard images for quick preview
-
-## 🛠 Tools & Skills
-- **Tableau** – Interactive dashboards and visual exploration
-- **Excel** – Data prep and formatting
-- **Descriptive Analytics** – Health data exploration and insight extraction
-
-## 🧠 Key Insights
-- Insights into high-visit months and peak diagnosis periods
-- Patterns in treatment types by patient category
-- Demographic breakdowns of health outcomes
-
-## 🔗 Dataset Source
-(Not provided due to privacy) – Based on simulated or anonymized patient data.
+This project aims to identify and analyze the reasons behind declining sales performance using **diagnostic analytics techniques** and **interactive Tableau dashboards**. By examining the **Global Superstore dataset**, the project uncovers patterns and problem areas contributing to the drop in sales across regions, product categories, and customer segments.
 
 ---
 
-📌 *This repository demonstrates how data visualization can enhance understanding of health patterns and inform better care decisions.*
+### 🎯 Objectives
+
+* Identify key factors leading to a decline in sales performance.
+* Use diagnostic analytics to explore relationships between **sales**, **profit**, **returns**, and **discounts**.
+* Build an interactive dashboard to visualize findings and enable stakeholder decision-making.
+
+---
+
+### 📊 Tools & Technologies
+
+* **Tableau** (for visualization & dashboard)
+* **Microsoft Excel** (for initial data cleaning)
+* **Data Source**: Global Superstore Dataset (Kaggle)
+
+---
+
+### 📌 Key Insights
+
+* High **discount rates** in some segments correlated with reduced profit margins.
+* Certain **product categories** had high return rates, negatively affecting overall revenue.
+* **Regional performance** varied significantly, with some markets underperforming despite increased marketing efforts.
+
+---
+
+### 📁 Files Included
+
+* `GlobalSuperstore_Dataset.xlsx` – Cleaned dataset used in Tableau
+* `Diagnostic_Analysis_Sales.twb` – Tableau workbook file
+* `Dashboard_Screenshot.png` – Preview of the dashboard
+* `README.md` – Project documentation
+
+---
+
+### 🖥️ Dashboard Highlights
+
+> The interactive Tableau dashboard includes:
+
+* **Sales vs Profit Heatmap**
+* **Returns by Product & Category**
+* **Discount Impact on Profit**
+* **Segment-wise Performance Trends**
+
+### ✅ Skills Demonstrated
+
+* Data Cleaning & Preparation
+* Diagnostic Data Analysis
+* Business Insight Extraction
+* Interactive Dashboard Creation
+* Data Storytelling
+
+---
+
+### 📬 Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/faizanfarid-malek-3b1265313)
+* 📧 Email: [faizex07@gmail.com](mailto:faizex07@gmail.com)
+* 🧠 Portfolio: [GitHub Portfolio](https://github.com/faizan97-malek)
+
+---
+
+Would you like me to help create a matching **project card** for your portfolio website too?
